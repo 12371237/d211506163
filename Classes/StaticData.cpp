@@ -84,3 +84,4 @@ StaticData::StaticData()
 {
 	_staticFileName = STATIC_DATA_FILENAME;
 }
+
